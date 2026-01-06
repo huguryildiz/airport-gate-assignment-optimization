@@ -151,9 +151,6 @@ z_g ≥ z_min     ∀ g ∈ G
 ## ▶️ How to Run
 
 ### 1️⃣ Activate environment
-```bash
-conda activate pythonProject
-```
 
 ### 2️⃣ Run optimization
 ```bash
