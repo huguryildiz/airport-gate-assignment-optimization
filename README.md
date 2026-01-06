@@ -192,7 +192,6 @@ pip install -r requirements.txt
 - The model is intentionally kept simple and transparent.  
 - Additional constraints (wingspan–gate compatibility, remote-only gates, buffer tuning)
   can be modularly added.  
-- Designed for technical assessments, interviews, and portfolio demonstration.  
 
 ---
 
