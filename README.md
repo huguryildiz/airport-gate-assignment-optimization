@@ -74,7 +74,7 @@ Required columns:
 
 ### Decision Variables
 - **x_{f,g,c} ∈ {0,1}**  
-  = 1 if flight *f* is assigned to gate *g* using mode *c*  
+  = 1 if flight *f* is assigned to gate *g* using mode *c* (0: direct, 1: coached)  
 
 - **z_g ≥ 0**  
   = total passengers assigned to gate *g*  
