@@ -1,13 +1,11 @@
 # ✈️ Gate Assignment Optimization (GAP)
 
-This repository implements a **Mixed-Integer Programming (MIP)** model for solving  
-an airport gate assignment problem using operational flight data and historic  
-gate usage patterns.
+This repository implements a **Mixed-Integer Programming (MIP)** model for solving an airport gate assignment problem using operational flight data and historic gate usage patterns.
 
 The project is designed to be:
 - cleanly structured  
 - easy to reproduce  
-- suitable for GitHub portfolios and technical assessments  
+- suitable for GitHub portfolios
 
 ---
 
